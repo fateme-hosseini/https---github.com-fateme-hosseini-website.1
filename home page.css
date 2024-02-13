@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    
+    body{
+        background-color:rgb(252, 237, 242);
+    
+    }
+    header{
+        background-color:#e082a5;
+        width:100rem;
+        height:4rem;
+        top: 0;
+        border-radius:30px;
+        position: fixed;
+    }
+    .h1{
+        color: #c84d7a;
+        font-size:4rem;
+        opacity: 0.8;
+        margin-top: 7rem;
+        font-weight: bolder;
+    }
+    .nav{
+        text-decoration: none;
+        font-size: 25px;
+        color:hsl(0, 0%, 100%); 
+        position: absolute;
+        left: 1rem;
+        top:1rem;
+        font-weight: bolder;
+    }
+    .nav1{
+        text-decoration: none;
+        font-size: 25px;
+        color:hsl(0, 0%, 100%); 
+        position: absolute;
+        left: 10rem;
+        top: 1rem;
+        font-weight: bolder;
+    }
+    .nav2{
+        text-decoration: none;
+        font-size: 25px;
+        color:hsl(0, 0%, 100%); 
+        position: absolute;
+        left: 40rem;
+        top: 1rem;
+        font-weight: bolder;
+    }
+    .nav3{
+        text-decoration: none;
+        font-size: 25px;
+        color:hsl(0, 0%, 100%); 
+        position: absolute;
+        left:33em;
+        top: 1rem;
+        font-weight: bolder;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .nav4{
+        text-decoration: none;
+        font-size: 25px;
+        color:hsl(0, 0%, 100%); 
+        position: absolute;
+        left:25rem;
+        top: 1rem;
+        font-weight: bolder;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .para{
+        border: 5px solid #c84d7a;
+       width: 30rem;
+       position: absolute;
+       top:15rem;
+       left: 3rem;
+       padding: 0.5rem;
+       border-radius: 20px;
+       font-size: 16px;
+       background-color: #c84d7a;
+       color: aliceblue;
+       font-weight: bold;
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+    img{
+    position: absolute;
+    left:43rem;
+    top:15rem;
+    border-radius: 10px;
+    opacity:0.5;
+    width: 60rem;
+    }
